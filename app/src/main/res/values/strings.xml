@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ThridClass</string>
+    <string name="male">Man</string>
+    <string name="female">women</string>
+    <string name="greetApp">GreetApp</string>
+    <string name="imcApp">IMC App</string>
+    <string name="description_male_icon">Symbol of men</string>
+    <string name="description_female_icon">Symbol of female</string>
+    <string name="height">Height</string>
+    <string name="initial_height">120 cm</string>
+    <string name="description_rsHeight">Bar to locate your height</string>
+    <string name="weight">Weight</string>
+    <string name="age">Age</string>
+    <string name="symbol_subtract_weight">Symbol subtract weight</string>
+    <string name="symbol_plus_weight">Symbol plus weight</string>
+    <string name="symbol_subtract_age">Symbol subtract age</string>
+    <string name="symbol_plus_age">Symbol plus age</string>
+    <string name="description_button_calculator_weight">Button to calculate the body mass index</string>
+    <string name="button_calculated">Calculate</string>
+    <string name="description_button_greetApp">Greet app button</string>
+    <string name="description_button_imcApp">IMC app button</string>
+    <string name="result_imc">IMC:</string>
+</resources>
